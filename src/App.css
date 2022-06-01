@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
